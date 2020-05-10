@@ -13,8 +13,8 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  array = ["red","blue","yellow","gray"]
-  element = "orange"
+  array = ["I", "am", "really", "learning"]
+  element = "wow"
   array.unshift(element)
 end
 
